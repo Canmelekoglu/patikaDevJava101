@@ -1,3 +1,6 @@
+/*
+Java ile girilen sayının harmonik serisini bulan program yazacağız.
+*/
 import java.util.Scanner;
 
 public class HarmonikSeri {
